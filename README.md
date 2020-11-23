@@ -29,7 +29,7 @@ go mod verify
 
 ### Step 2. Keywords in go.mod
 
-[go.mod](go.mod)
+[go.mod](src/go.mod)
 
 - module
 - go
